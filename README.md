@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **my protfolio**
+- 🔭 I’m currently working in **startup**
 
-- 🌱 I’m currently learning **React.js and Redux and TypeScript**
+- 🌱 I’m currently learning **Java and Spring Framework**
 
-- 💬 Ask me about **Vue and Vuex**
+- 💬 Ask me about **React, Express,TypeScript,**
 
-- 📫 How to reach me **ma614351@gmail.com**
+- 📫 How to reach me **mohamed.ahmed2067@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
