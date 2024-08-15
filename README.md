@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **startup**
 
-- 🌱 I’m currently learning **Java and Spring Framework**
+- 🌱 I’m currently learning **Blockchain and web 3.0**
 
 - 💬 Ask me about **React, Express,TypeScript,**
 
